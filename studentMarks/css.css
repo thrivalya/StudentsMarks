@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    background-color: rgba(167, 226, 72, 0.377);
+
+}
+.heading-row th {
+    text-align: center;
+    background-color: #2c8603bb;
+    color: white;
+}
+.odd{
+    background-color: rgba(167, 226, 72, 0.849);
+}
